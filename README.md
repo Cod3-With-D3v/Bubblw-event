@@ -20,7 +20,7 @@ Prerequisites
 
 Installation
 1. Clone the repository:
-git clone https://github.com/your-username/bubble-event.git
+git clone https://github.com/Cod3-With-D3v/bubble-event.git
 2. Navigate to the project directory:
 cd bubble-event
 3.Open index.html in your web browser to see the application in action.
