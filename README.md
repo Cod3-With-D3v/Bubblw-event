@@ -10,7 +10,8 @@ Features
 -Responsive Design: Optimized for various screen sizes and devices.
 -Customizable: Easily modify bubble colors, sizes, and behavior to suit your needs.
 
-Technologies Used
+Technologies Used:
+
 -HTML5 Canvas: For rendering the bubble charts.
 -CSS3: For styling the application and ensuring responsiveness.
 -JavaScript: For application logic and interactivity.
