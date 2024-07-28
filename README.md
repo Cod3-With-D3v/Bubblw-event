@@ -1,4 +1,5 @@
 Bubble-event Project
+
 Overview
 Bubble-event is an interactive web application designed to visualize and manage events using dynamic bubble charts. This project leverages HTML5 Canvas, CSS, and JavaScript to create an engaging user experience, allowing users to add, edit, and visualize events in a unique and intuitive way.
 
